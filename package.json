@@ -1,0 +1,22 @@
+{
+  "name": "node-uncompress-cli",
+  "version": "1.0.0",
+  "description": "A cli recursively uncompress content of the archive in rar/zip/7z/pdf mainly targeting manga archives",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/NStal/node-uncompress-cli.git"
+  },
+  "keywords": [
+    "uncompress"
+  ],
+  "author": "NStal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NStal/node-uncompress-cli/issues"
+  },
+  "homepage": "https://github.com/NStal/node-uncompress-cli#readme"
+}
